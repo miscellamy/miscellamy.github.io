@@ -1,2 +1,2 @@
-# miscellamy.github.io
+# [website in progress]
 Personal website
